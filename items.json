@@ -4,35 +4,35 @@
       "id": 1,
       "name": "Regreso al futuro",
       "year": "1985",
-      "isWhatched": "false",
+      "isWatched": "false",
       "image": "https://i.ibb.co/GHDmVMt/regreso.webp"
     },
     {
       "id": 2,
       "name": "El Padrino",
       "year": "1972",
-      "isWhatched": "false",
+      "isWatched": "false",
       "image": "https://i.ibb.co/5RJcB5M/padrino.webp"
     },
     {
       "id": 3,
       "name": "Pulp Fiction",
       "year": "1994",
-      "isWhatched": "false",
+      "isWatched": "false",
       "image": "https://i.ibb.co/wYTMSMm/pulp.webp"
     },
     {
       "id": 4,
       "name": "Avatar",
       "year": "2022",
-      "isWhatched": "false",
+      "isWatched": "false",
       "image": "https://i.ibb.co/T0wbNTv/avatar.webp"
     },
     {
       "id": 5,
       "name": "El caballero oscuro",
       "year": "2008",
-      "isWhatched": "false",
+      "isWatched": "false",
       "image": "https://i.ibb.co/3rY0ggt/caballero.webp"
     }
   ]
